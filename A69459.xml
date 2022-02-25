@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Protestantisme reviv'd, or, The persecuted church triumphing [by] C.A., Linc. Coll. Oxon.</title>
+            <author>C. A., Linc. Coll. Oxon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69459</idno>
+            <idno type="STC">Wing A2C</idno>
+            <idno type="STC">ESTC R29240</idno>
+            <idno type="EEBO-CITATION">11051594</idno>
+            <idno type="OCLC">ocm 11051594</idno>
+            <idno type="VID">46165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46165)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1434:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Protestantisme reviv'd, or, The persecuted church triumphing [by] C.A., Linc. Coll. Oxon.</title>
+                  <author>C. A., Linc. Coll. Oxon.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Walsall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church --  Poetry.</term>
+               <term>Protestantism --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:46165:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <hi>Proteſtantiſme Reviv'd.</hi> OR, The Perſecuted CHURCH Triumphing.</head>
+            <lg>
+               <l>IN Sable Weeds I ſaw a Matron clad,</l>
+               <l>Whoſe Looks were grave, whoſe Countenance was ſad;</l>
+               <l>Penſive with Care, ſhe muſing ſate alone,</l>
+               <l>Her State, too too unhappy, to bemoan:</l>
+               <l>Deep bitter Pangs I ſaw her undergoe,</l>
+               <l>And pay the tributary Drops of Woe.</l>
+               <l>So wept <hi>Deucalion</hi> when he ſaw the State</l>
+               <l>And Face of Nature chang'd and deſolate.</l>
+               <l>By this dumb Elegy a while ſh' expreſt</l>
+               <l>The gloomy Sorrows of her troubled Breaſt.</l>
+               <l>Then heaving up her Head, ſhe ſilence broke,</l>
+               <l>And with a heavy Sigh dejected ſpoke.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Good God! what Grief ſurrounds my aged Head!</l>
+                  <l>What new diſtracting Woes I daily wed!</l>
+                  <l>Who am by ſpitefull Foes in Triumph led:</l>
+               </lg>
+               <l>They pierce my ſide with wounds, they break my reſt,</l>
+               <l>And ſnatch my ſucking Children from my Breaſt:</l>
+               <l>My elder Sons inhumanely they treat,</l>
+               <l>My weaker ones they bubble with Deceit.</l>
+               <l>Thus they inſult, thus put me to diſgrace,</l>
+               <l>And ſpit their frothy Venom in my Face:</l>
+               <l>My growing ſorrows to compleat the more,</l>
+               <l>I' m flouted by a Babyloniſh Whore.</l>
+               <lg>
+                  <l>Put me to death they can't, ſince Heav'n decreed,</l>
+                  <l>I muſt not dye, though with my Saviour bleed,</l>
+                  <l>But humbly ſhould in after-times ſucceed:</l>
+               </lg>
+               <l>What moſt my anxious Soul tormented hath,</l>
+               <l>Is, He that ſhould defend, betrayes my Faith.</l>
+               <l>Thus, thus abus'd, I' m to all Griefs betray'd,</l>
+               <l>Thus my Delights are double Sorrows made.</l>
+               <l>Who e're was Curb'd by ſuch a Concubine?</l>
+               <l>Who ſo perplext? Was ever Grief like mine?</l>
+            </lg>
+            <lg>
+               <l>Then ſhe bow'd down her Head, and with her Tears</l>
+               <l>Bedew'd the parched Earth: When ſtreight appears</l>
+               <l>A Comforter by pittying Heaven ſent</l>
+               <l>To raiſe her drooping Spirits, almoſt ſpent:</l>
+               <l>Who when he had reſpectfull Homage paid,</l>
+               <l>In terms obliging, reverently ſaid,</l>
+            </lg>
+            <lg>
+               <l>Mother, I know the Cauſe of all thy Grief,</l>
+               <l>I' m ſent thy Succour, and thy true Relief:</l>
+               <l>Thy God has heard thy Sighs, thy faithful Prayers,</l>
+               <l>And graciouſly receiv'd thy flowing Tears:</l>
+               <l>I'le wipe them off, I'le rugged Grief expell,</l>
+               <l>And uſu'al Joy ſhall in thy Count'nance dwell:</l>
+               <l>I've made thy haughty Domineerers bow,</l>
+               <l>And own their Lives they to my Bounty owe:</l>
+               <l>I've broke your Yoke, I've freed you from your Chain,</l>
+               <l>And ſet you once at Liberty again:</l>
+               <l>I've foyl'd them all, I have diſarm'd them quite,</l>
+               <l>They have the Power to Bark, but not to Bite.</l>
+               <l>To Eaſe your Pain by th' God of Heav'n I'm ſent,</l>
+               <l>He acts, and I'm the Honour'd Inſtrument.</l>
+            </lg>
+            <lg>
+               <l>Then ſhe aroſe, Joy ſmiling in her Eye,</l>
+               <l>And with a chearful Voice did thus reply:</l>
+               <l>Thanks Gracious God, thanks thou Victorious Son,</l>
+               <l>By whom I have my wonted Glory won:</l>
+               <l>Rejoyce my Sons, and <hi>Hallelujahs</hi> ſing,</l>
+               <l>Unto our Saviour, our Triumphant King.</l>
+               <l>For I an Anthem will compoſe, and then,</l>
+               <l>We'll ſweetly ſound it to our God. <hi>Amen.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>C. A. Linc. Coll. Oxon.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LON<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Printed for <hi>S. Walſall</hi> at the Heart and Bible near the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
